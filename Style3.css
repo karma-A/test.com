@@ -1,0 +1,72 @@
+body {
+    font-family: cursive;
+    background-image: url("https://bit.ly/3oOG7Na");
+    background-repeat: none;
+    background-size: 100%;
+
+}
+
+.main {
+    padding: 10%;
+}
+
+.name {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: none;
+    background-color: rgba(0, 0, 0, .04);
+    height:20px;
+    width: 200px;
+    border-radius: 15px;
+    outline: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 13px;
+}
+
+.password {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: none;
+    background-color: rgba(0, 0, 0, .04);
+    height:20px;
+    width: 200px;
+    border-radius: 15px;
+    outline: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 13px;
+}
+
+.date {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: none;
+    background-color: rgba(0, 0, 0, .04);
+    height:20px;
+    width: 200px;
+    border-radius: 15px;
+    outline: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 13px;
+}
+
+.button {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: none;
+    background-color: rgba(0, 0, 0, .04);
+    height:20px;
+    width: 80px;
+    border-radius: 15px;
+    outline: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 13px;
+    background-color: gray;
+}
